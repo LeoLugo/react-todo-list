@@ -1,0 +1,28 @@
+.main {
+	box-sizing: border-box;
+	background-color: #5EE861;
+	width: 100%;
+	height: 1000px;
+	color: white;
+	padding-top:200px;
+}
+.content {
+	border: 1px solid white;
+	width: 600px;
+	margin: auto;
+	background-color: #6CD4FF;
+}
+h1 {
+	text-align: center;
+}
+.butt {
+	display: flex;
+	justify-content: center;
+	padding-top: 15px;
+}
+.holdtext {
+	padding: 5px;
+}
+label:before, label, label:after {
+	margin-top: 3px;
+}
