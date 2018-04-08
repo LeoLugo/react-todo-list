@@ -6,8 +6,8 @@
       "id": 1
     },
     {
-      "itemtext": "Finish Hard mode",
-      "completed": false,
+      "itemtext": "Finish Styling",
+      "completed": true,
       "id": 2
     }
   ]
