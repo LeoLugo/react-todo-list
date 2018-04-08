@@ -1,9 +1,14 @@
 {
   "listitems": [
     {
-      "itemtext": "dd",
+      "itemtext": "Finish Normal mode",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "itemtext": "Finish Hard mode",
       "completed": false,
-      "id": 5
+      "id": 2
     }
   ]
 }

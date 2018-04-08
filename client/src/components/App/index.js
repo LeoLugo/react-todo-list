@@ -4,7 +4,6 @@ import {connect} from 'react-redux'
 import axios from 'axios'
 import {List, Button, Form, Checkbox} from 'semantic-ui-react'
 import './styles.css'
-import {Link} from 'react-router-dom'
 
 
 class App extends Component {
@@ -60,13 +59,6 @@ class App extends Component {
               <Item {...item} key={'item' + item.id} />
               ))}
             </List>
-            <div>
-              <Button.Group size='large'>
-                <Button>one</Button>
-                <Button>two</Button>
-                <Button>three</Button>
-              </Button.Group>
-            </div>
           </div>
         </div>
     )
